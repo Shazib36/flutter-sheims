@@ -601,3 +601,4 @@ class course_Offered extends StatelessWidget {
     );
   }
 }
+ 
